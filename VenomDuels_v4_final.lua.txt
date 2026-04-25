@@ -171,7 +171,7 @@ end)
 -- رابط الديسكورد (منفصل)
 local discordText = Instance.new("TextLabel")
 discordText.Size = UDim2.new(1, 0, 0, 30)
-discordText.Position = UDim2.new(0, 0, 0.52, 0)
+discordText.Position = UDim2.new(0, 0, 0.65, 0)
 discordText.BackgroundTransparency = 1
 discordText.Text = "discord.gg/eUVxJghHA"
 discordText.TextTransparency = 1
